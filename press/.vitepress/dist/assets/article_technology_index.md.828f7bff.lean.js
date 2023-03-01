@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.eee05403.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"article/technology/index.md"}'),o={name:"article/technology/index.md"};function n(r,c,s,i,d,p){return t(),a("div")}const m=e(o,[["render",n]]);export{l as __pageData,m as default};
