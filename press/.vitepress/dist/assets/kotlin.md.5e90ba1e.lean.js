@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o}from"./app.eee05403.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"kotlin.md"}'),a={name:"kotlin.md"};function n(r,s,c,i,p,_){return e(),o("div")}const m=t(a,[["render",n]]);export{l as __pageData,m as default};
